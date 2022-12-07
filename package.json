@@ -1,0 +1,31 @@
+{
+  "name": "ablog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trjmaxxx/nodejs_ablog.git"
+  },
+  "keywords": [
+    "blog",
+    "test",
+    "learn"
+  ],
+  "author": "tungvh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trjmaxxx/nodejs_ablog/issues"
+  },
+  "homepage": "https://github.com/trjmaxxx/nodejs_ablog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
